@@ -1,6 +1,8 @@
 # Periodic Table of the Elements — Modified Middle View
 
-A Pen created on CodePen.
+Acessed by [worklt.tech/periodic-table/](https://worklt.tech/periodic-table/)
+
+Copied from A Pen created on CodePen.
 
 Original URL: [https://codepen.io/worklt/pen/VYwXLqb](https://codepen.io/worklt/pen/VYwXLqb).
 
